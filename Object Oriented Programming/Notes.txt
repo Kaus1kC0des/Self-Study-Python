@@ -1,0 +1,5 @@
+Intro to OOP with Python: https://replit.com/@tecladocode/CP401-DictionariesandObjects
+More about Classes and Objects: https://replit.com/@tecladocode/CP042-Moreonclasses
+Magic Methods in Python: https://replit.com/@tecladocode/CP043-magicmethodsinpython
+Inheritance in Python: https://replit.com/@tecladocode/CP044-Inheritanceinpython
+@staticmethod and @staticmethod in Python: https://replit.com/@tecladocode/CP045-classmethodandstaticmethod#main.py
