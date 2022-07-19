@@ -1,0 +1,5 @@
+Steps to carry:
+
+1 Read data from CSV file.
+2 Convert the data in a format in which you can iterate upon easily.
+3
